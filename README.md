@@ -17,4 +17,4 @@ https://github.com/GitLeandroHub
 
 No arquivo "deep_learning_transfer.gif" segue uma prévia do resultado final do código em funcionamento.
 
-![](transfer_learning_fine-tuning_from_pre-trained_model.gif)
+![](transfer_learning_model.gif)
